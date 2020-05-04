@@ -1,0 +1,26 @@
+{
+  "name": "reversi",
+  "version": "1.0.0",
+  "description": "reversi game",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiang2uci/reversi.git"
+  },
+  "keywords": [
+    "reversi"
+  ],
+  "author": "Xian",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/xiang2uci/reversi/issues"
+  },
+  "homepage": "https://github.com/xiang2uci/reversi#readme",
+  "dependencies": {
+    "node-static": "^0.7.11",
+    "socket.io": "^2.3.0"
+  }
+}
